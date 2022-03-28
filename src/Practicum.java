@@ -21,7 +21,7 @@ public class Practicum {
             } else if (command == 3) {
                 library.printAll();
             } else {
-                System.out.println("Извините, такой команды пока нет.");
+               System.out.println("Извините такой команды пока нет");
             }
         }
     }
